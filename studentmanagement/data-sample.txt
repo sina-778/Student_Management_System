@@ -1,0 +1,112 @@
+{
+  "email":"sina@gmail.com",
+  "imageUrl":"https://bootdey.com/img/Content/avatar/avatar1.png",
+  "semester":"12th",
+  "Name":"Ebna Sina",
+  "phone":"01773845777"
+}
+{
+  "email":"John@gmail.com",
+  "imageUrl":"https://bootdey.com/img/Content/avatar/avatar2.png",
+  "semester":"10th",
+  "name":"John Cena",
+  "section":"162",
+  "phone":"01773845788"
+}
+{
+  "email":"Sam@gmail.com",
+  "imageUrl":"https://bootdey.com/img/Content/avatar/avatar3.png",
+  "semester":"9th",
+  "name":"Sam Smith",
+  "section":"162",
+  "phone":"01773845788"
+}
+{
+        "name": "Ebna Sina",
+        "email": "sina@gmail.com",
+        "semester": "12th",
+        "phone": "01773845777",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+        "section": "CSE"
+    }
+    
+    {
+        
+        "name": "Ebna Sina",
+        "email": "sina@gmail.com",
+        "semester": "12th",
+        "phone": "01773845777",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+        "section": "CSE"
+    }
+    {
+        
+        "name": "Bat Man",
+        "email": "bat@gmail.com",
+        "semester": "12th",
+        "phone": "666555",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+        "section": "CSE"
+    }
+    {
+      
+        "name": "John Cena",
+        "email": "John@gmail.com",
+        "semester": "10th",
+        "phone": "01773845788",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+        "section": "Math"
+    }
+    {
+        
+        "name": "Sam Smith",
+        "email": "Sam@gmail.com",
+        "semester": "9th",
+        "phone": "01773845788",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+        "section": "Law"
+    }
+    {
+        "name": "Iron Man",
+        "email": "iron@gmail.com",
+        "semester": "4th",
+        "phone": "000111",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+        "section": "SuperHero"
+    }
+    {
+        
+        "name": "Spider Man",
+        "email": "spider@gmail.com",
+        "semester": "9th",
+        "phone": "777888",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+        "section": "SuperHero"
+    }
+    {
+        
+        "name": "Tom Hanks",
+        "email": "hank@gmail.com",
+        "semester": "101",
+        "phone": "7744",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+        "section": "Acting"
+    }
+    {
+        
+        "name": "Sergio Ramos",
+        "email": "sr@real.com",
+        "semester": "4",
+        "phone": "*****",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+        "section": "RMA"
+    }
+    {
+        
+        "name": "Arron Ramsy",
+        "email": "a@gmail.com",
+        "semester": "9th",
+        "phone": "187845",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+        "section": "162"
+    }
